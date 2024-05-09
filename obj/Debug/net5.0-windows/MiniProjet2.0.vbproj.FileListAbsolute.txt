@@ -1,0 +1,37 @@
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.exe
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.deps.json
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.runtimeconfig.json
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.runtimeconfig.dev.json
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.dll
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\ref\MiniProjet2.0.dll
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.pdb
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbprojAssemblyReference.cache
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2._0.Form1.resources
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbproj.GenerateResource.cache
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.AssemblyInfoInputs.cache
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.AssemblyInfo.vb
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbproj.CoreCompileInputs.cache
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.dll
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\ref\MiniProjet2.0.dll
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.pdb
+C:\Users\aalia\OneDrive\Bureau\S2\IHM\PROJET\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.genruntimeconfig.cache
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.exe
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.deps.json
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.runtimeconfig.json
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.runtimeconfig.dev.json
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.dll
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\ref\MiniProjet2.0.dll
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\bin\Debug\net5.0-windows\MiniProjet2.0.pdb
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2._0.Form1.resources
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2._0.Resources.resources
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbproj.GenerateResource.cache
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.AssemblyInfoInputs.cache
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.AssemblyInfo.vb
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbproj.CoreCompileInputs.cache
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.dll
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\ref\MiniProjet2.0.dll
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.pdb
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.genruntimeconfig.cache
+C:\Users\aalia\Downloads\MiniProjet2.0_2\MiniProjet2.0 (2)\MiniProjet2.0\obj\Debug\net5.0-windows\MiniProjet2.0.vbproj.AssemblyReference.cache
